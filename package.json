@@ -1,0 +1,22 @@
+{
+  "name": "homework-bamazon",
+  "version": "1.0.0",
+  "description": "Amazon ripoff for education",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theparkinator56/homework-Bamazon.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Parker Call",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theparkinator56/homework-Bamazon/issues"
+  },
+  "homepage": "https://github.com/theparkinator56/homework-Bamazon#readme"
+}
