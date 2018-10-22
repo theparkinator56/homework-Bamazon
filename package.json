@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/theparkinator56/homework-Bamazon/issues"
   },
-  "homepage": "https://github.com/theparkinator56/homework-Bamazon#readme"
+  "homepage": "https://github.com/theparkinator56/homework-Bamazon#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mysql": "^2.16.0",
+    "require": "^2.4.20"
+  }
 }
